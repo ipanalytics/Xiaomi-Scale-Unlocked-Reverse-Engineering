@@ -1,0 +1,7 @@
+# One hex frame per line, exactly as a passive scan sees the advertisement.
+# First two frames: Mi Body Composition Scale (0x181B), stabilized 75.0 kg and
+# the same scale moments later with the load removed.
+0224b2070104030637fdff983a
+0284b207010403072600001400
+# Mi Smart Scale (0x181D), 75.75 kg.
+222e3bb2070101003615
